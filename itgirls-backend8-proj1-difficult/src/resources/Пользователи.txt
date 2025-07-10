@@ -1,0 +1,10 @@
+623325, User{id=1, fullName='Петров Александер Владимирович', email='aleks.petrov@gmail.com', gender='мужcкой', birthday='02.03.1989', role='admin'}
+
+456450, User{id=2, fullName='Сорокина Анна Адреевна', email='anna.sorokinka@gmail.com', gender='женский', birthday='04.15.1992', role='vendor'}
+
+436323, User{id=3, fullName='Родионов Валентин Кириллович', email='val.rodionov@gmail.com', gender='мужской', birthday='09.12.1981', role='client'}
+
+183286, User{id=4, fullName='Федорова Мария Александровна', email='masha.20@gmail.com', gender='женский', birthday='03.03.2000', role='client'}
+
+762933, User{id=5, fullName='Киселев Василий Георгиевич', email='vasiliy.kisilev@gmail.com', gender='мужской', birthday='05.19.1985', role='client'}
+
